@@ -1,0 +1,87 @@
+#jobBox {
+    background-color: white;
+    box-shadow: 2px 4px 6px gray;
+    border-radius: 10px;
+    height: 200px;
+    width: 90%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#jobName {
+    background-color: lightcyan;
+    border-radius: 10px 10px 0px 0px;
+    font-size: 30px;
+    height: 50px;
+    text-indent: 20px;
+}
+
+#jobName:hover {
+    background-color: cyan;
+}
+
+#jobStatus {
+    display: flex;
+    position: relative;
+    text-indent: 10px;
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#jobStatus:hover {
+    background-color: lightcyan;
+}
+
+#jobPosition {
+    display: flex;
+    position: relative;
+    text-indent: 10px;
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#jobPosition:hover {
+    background-color: lightcyan;
+}
+
+#jobNotes {
+    display: flex;
+    position: relative;
+    text-indent: 10px;
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#jobNotes:hover {
+    background-color: lightcyan;
+}
+
+#jobDelete {
+    border: none;
+    border-radius: 5px;
+    background-color: lightcyan;
+    font-size: 20px;
+}
+
+#deleteJobBtn {
+    position: relative;
+    text-align: end;
+    right: 20px;
+}
+
+#updateJobBtn {
+    border: none;
+    border-radius: 5px;
+    background-color: lightcyan;
+    font-size: 20px;
+}
+
+#updateJobs {
+    position: relative;
+    text-align: end;
+    right: 150px;
+    top: -25px;
+}

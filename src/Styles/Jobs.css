@@ -1,0 +1,82 @@
+#StudentsBack {
+    background-color: #E8E8E8;
+    position: absolute;
+    background-size: cover;
+    min-height: 100%;
+    width: 95.9%;
+    margin-top: -698px;
+    margin-left: 62px;
+}
+
+#jobTitle {
+    display: flex;
+    position: relative;
+    font-size: 40px;
+    left: 44%;
+    margin-top: -60px;
+    width: 400px;
+}
+
+#addJob {
+    background-color: white;
+    box-shadow: 2px 4px 6px gray;
+    border-radius: 10px;
+    height: 250px;
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 5%;
+}
+
+#divAddBtn {
+    text-align: center;
+}
+
+#addBtn {
+    border: none;
+    border-radius: 10px;
+    background-color: lightgoldenrodyellow;
+    width: 100px;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#newJob {
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px 10px 0px 0px;
+    font-size: 30px;
+    height: 50px;
+    text-align: center;
+}
+
+#companyInput {
+    width: 40%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#positionInput {
+    width: 40%;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#statusInput {
+    margin-left: 20px;
+    height: 36px;
+    width: 163px;
+}
+
+#newJobNotes {
+    position: relative;
+    margin-left: 20px;
+    margin-top: 20px;
+    min-width: 96%;
+    min-height: 60px;
+}
+
+#allJobs {
+    position: relative;
+    left: 5%;
+}

@@ -1,0 +1,15 @@
+#oneStudentBack {
+    background-color: #E8E8E8;
+    position: absolute;
+    height: 95%;
+    width: 95.9%;
+    margin-top: -698px;
+    margin-left: 62px;
+}
+
+#oneStudentName {
+    font-size: 40px;
+    position: relative;
+    top: 2%;
+    left: 4%;
+}

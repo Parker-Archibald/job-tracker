@@ -1,0 +1,71 @@
+#studentsPageBack{
+    background-color: #E8E8E8;
+    position: absolute;
+    background-size: cover;
+    min-height: 100%;
+    width: 95.9%;
+    margin-top: -698px;
+    margin-left: 62px;
+}
+
+#studentSearch {
+    position: relative;
+    left: 20px;
+    top: 20px;
+    padding-bottom: 40px;
+}
+
+#searchCriteria {
+    width: 300px;
+}
+
+#searchIcon {
+    position: relative;
+    top: 8px;
+}
+
+#searchBtn {
+    border: none;
+    background: transparent;
+}
+
+#studentBox {
+    border-bottom: 1px solid gray;
+}
+
+#studentsTitle {
+    font-size: 40px;
+    text-indent: 50px;
+    width: 220px;
+    margin-bottom: 10px;
+    border-right: 1px solid gray;
+}
+
+#studentName {
+    font-size: 20px;
+    text-indent: 10px;
+    margin-top: -10px;
+}
+
+#allInfo {
+    position: relative;
+    background-color: 	#F8F8F8;
+    box-shadow: inset 2px 2px gray;
+    width: 96%;
+    left: 2%;
+}
+
+#singleStudentAll {
+    background-color: white;
+    position: relative;
+    box-shadow: 2px 4px 6px gray;
+    margin-top: 15px;
+    width: 98%;
+    left: 1%;
+}|
+
+#viewStudent {
+    position: relative;
+    left: 80%;
+    top: -20px;
+}

@@ -1,0 +1,26 @@
+#leftBar {
+    width: 60px;
+    height: 700px;
+}
+
+#homeIcon {
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 40px;
+    color: black;
+}
+
+#homeIcon:hover {
+    color: cyan;
+}
+
+#descriptionIcon {
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 40px;
+    color: black;
+}
+
+#descriptionIcon:hover {
+    color: cyan;
+}
